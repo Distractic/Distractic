@@ -1,7 +1,7 @@
 # 🐨 Who I am 
 <img src="https://komarev.com/ghpvc/?username=Distractic&style=flat-square&color=blue" alt=""/>
 
-I'm a French developer with a master's degree who wants to live in Canada.
+I'm a French developer with a master's degree.
 
 The following points refer to my development knowledge, but I am still learning :
 
