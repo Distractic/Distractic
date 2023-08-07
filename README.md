@@ -41,5 +41,5 @@ The following points refer to my development knowledge, but I am still learning 
 
 <p align="center">
   <a href="mailto:Distractic@outlook.fr"><img title="Distractic@outlook.fr" src="https://img.shields.io/badge/Distractic%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"></a>
-  <img title="Tic#2756" src="https://img.shields.io/badge/Tic%232756-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  <img title="Distractic" src="https://img.shields.io/badge/Distractic-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
 </p>
